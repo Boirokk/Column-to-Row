@@ -1,4 +1,4 @@
-# Written by Chad Edward 2016-04-21 v1.1
+# Written by Boirokk 2016-04-21 v1.1
 
 import xlrd
 import os
